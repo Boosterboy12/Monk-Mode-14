@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TERE ASSETS FOLDER WALI PNG FILE HERE -->
-<img src="assets/banner.png" alt="Monk Mode 14" width="100%" style="border-radius: 8px;"/>
+<img src="assets/layered-waves-haikei 1.png" alt="Monk Mode 14" width="100%" style="border-radius: 8px;"/>
 
 <br/><br/>
 
