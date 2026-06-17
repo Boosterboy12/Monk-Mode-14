@@ -1,9 +1,7 @@
 <div align="center">
 
-<h1>MONK MODE 14 ⚡ THE PATH OF UNSTOPPABLE EXECUTION ⚡</h1>
-
-<!-- YOUR EXACT MASTER BADGES LAYOUT -->
-<img src="https://img.shields.io/badge/PROTOCOL-ACTIVE-00FFAA?style=for-the-badge&logo=git&logoColor=black" alt="Protocol Active"/> <img src="https://img.shields.io/badge/CORE-UNSTOPPABLE-FF0055?style=for-the-badge&logo=target&logoColor=white" alt="Core Unstoppable"/> <img src="https://img.shields.io/badge/PHASE-IDENTITY_SHIFT-7A00FF?style=for-the-badge&logo=cpu&logoColor=white" alt="Phase Identity Shift"/>
+<!-- TERE ASSETS FOLDER WALI PNG FILE HERE -->
+<img src="assets/banner.png" alt="Monk Mode 14" width="100%" style="border-radius: 8px;"/>
 
 <br/><br/>
 
@@ -17,7 +15,6 @@
 
 <br/><br/>
 
-<!-- YOUR ORIGINAL SOLID-BLOCK STAGE PROGRESSION -->
 <pre>
 STAGE 01 [████████████████████] Day 1–3   — Fighting old habits
 STAGE 02 [                    ] Day 4–7   — Routine starts feeling normal
@@ -58,7 +55,7 @@ STAGE 06 [                    ] Day 31+   — Automatic Execution
 ```bash
 Monk-Mode-14/
 │
-├── assets/          # Custom graphical overlays
+├── assets/          # Custom graphical overlays (banner.png)
 ├── Days/            # Daily execution logs
 ├── Notes/           # ML/Tech master documentation
 ├── Projects/        # Production source files
