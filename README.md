@@ -266,18 +266,22 @@ flowchart TD
 
 Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your real GitHub username and repository name.
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Boosterboy12/Monk-Mode-14
+/
+">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boosterboy12&repo=Monk-Mode-14
+/
+&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Boosterboy12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Boosterboy12&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Boosterboy12&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
