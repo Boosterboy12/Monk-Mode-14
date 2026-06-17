@@ -145,6 +145,14 @@
 <td><b>Tech / ML Theory Learning</b></td>
 <td><img src="https://progress-bar.xyz/100/?title=Deep_Work&width=160&color=00ffaa"/></td>
 </tr>
+<!-- FIXED: ADDED BREAKFAST & BATH BLOCK -->
+<tr>
+<td align="center"><img src="https://img.icons8.com/fluency/64/restaurant.png"/></td>
+<td><code>08:00 - 08:30</code></td>
+<td><b>30 min</b></td>
+<td><b>Bath &amp; Breakfast Block</b></td>
+<td><img src="https://progress-bar.xyz/40/?title=Recharge&width=160&color=ff9900"/></td>
+</tr>
 <tr>
 <td align="center"><img src="https://img.icons8.com/fluency/64/code.png"/></td>
 <td><code>08:30 - 10:30</code></td>
@@ -181,6 +189,13 @@
 <td><img src="https://progress-bar.xyz/75/?title=Focus&width=160&color=ffdd00"/></td>
 </tr>
 <tr>
+<td align="center"><img src="https://img.icons8.com/fluency/64/break.png"/></td>
+<td><code>05:00 - 05:15</code></td>
+<td><b>15 min</b></td>
+<td><b>Short Break / Unwind</b></td>
+<td><img src="https://progress-bar.xyz/15/?title=Break&width=160&color=7a00ff"/></td>
+</tr>
+<tr>
 <td align="center"><img src="https://img.icons8.com/fluency/64/search.png"/></td>
 <td><code>05:15 - 06:00</code></td>
 <td><b>45 min</b></td>
@@ -193,6 +208,14 @@
 <td><b>1 hr</b></td>
 <td><b>Project Implementation Round 2</b></td>
 <td><img src="https://progress-bar.xyz/85/?title=Project&width=160&color=00dfff"/></td>
+</tr>
+<!-- FIXED: ADDED POOJA, DINNER & FAMILY BLOCK -->
+<tr>
+<td align="center"><img src="https://img.icons8.com/fluency/64/pray.png"/></td>
+<td><code>07:00 - 08:30</code></td>
+<td><b>1.5 hrs</b></td>
+<td><b>Pooja Time + Dinner Block</b></td>
+<td><img src="https://progress-bar.xyz/50/?title=Family&width=160&color=ff9900"/></td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.icons8.com/fluency/64/github.png"/></td>
