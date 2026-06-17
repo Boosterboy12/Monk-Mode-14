@@ -1,62 +1,133 @@
 <div align="center">
 
-<!-- TERE ASSETS FOLDER WALI PNG FILE HERE -->
-<img src="assets/layered-waves-haikei 1.png" alt="Monk Mode 14" width="100%" style="border-radius: 8px;"/>
+<img src="assets/layered-waves-haikei 1.png" alt="Monk Mode 14 Banner" width="100%"/>
 
-<br/><br/>
+# MONK MODE 14
 
-<blockquote><b>"14 Hours of Execution. No Distractions. Just Legacy."</b></blockquote>
+### `14 Hours of Execution` | `No Distractions` | `Just Legacy`
 
----
+> **"14 Hours of Execution. No Distractions. Just Legacy."**
 
-<h3>📡 PROTOCOL CORE METRICS</h3>
+<br/>
 
-<code>DAILY FOCUS: 14 HOURS</code> • <code>WAKE PROTOCOL: 05:00 AM</code> • <code>SLEEP PROTOCOL: 11:00 PM</code>
-
-<br/><br/>
-
-<pre>
-STAGE 01 [████████████████████] Day 1–3   — Fighting old habits
-STAGE 02 [                    ] Day 4–7   — Routine starts feeling normal
-STAGE 03 [                    ] Day 8–14  — Momentum phase
-STAGE 04 [                    ] Day 15–21 — Real discipline test
-STAGE 05 [                    ] Day 22–30 — Identity shift begins
-STAGE 06 [                    ] Day 31+   — Automatic Execution
-</pre>
+<img src="https://img.shields.io/badge/DAILY%20FOCUS-14%20HOURS-00ffaa?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/WAKE%20PROTOCOL-05%3A00%20AM-00dfff?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/SLEEP%20PROTOCOL-11%3A00%20PM-9d00ff?style=for-the-badge&labelColor=111111"/>
 
 </div>
 
 ---
 
-## 📅 THE 14-HOUR GRID
+## Protocol Core Metrics
 
-| 🕒 TIME WINDOW | ⏱️ RUNTIME | ⚡ OPERATION DETAILS |
-| :--- | :--- | :--- |
-| `05:00 AM - 05:15 AM` | **15 Mins** | 🌅 Wake up & Quick Fresh Up |
-| `05:15 AM - 08:00 AM` | **2.75 Hours** | 🧠 <font color="#00FFAA"><b>STUDY SLOT 1:</b> Tech/ML Theory Learning</font> |
-| `08:00 AM - 08:30 AM` | **30 Mins** | 🍳 BATH & BREAKFAST BLOCK |
-| `08:30 AM - 10:30 AM` | **2 Hours** | ⌨️ <font color="#00FFAA"><b>STUDY SLOT 2:</b> Hands-on Coding Practice</font> |
-| `10:30 AM - 10:45 AM` | **15 Mins** | 🏃‍♂️ Break |
-| `10:45 AM - 11:45 AM` | **1 Hour** | 📝 <font color="#FFDD00"><b>STUDY SLOT 3:</b> School Holiday Homework</font> |
-| `11:45 AM - 12:00 PM` | **15 Mins** | 🏃‍♂️ Break |
-| `12:00 PM - 02:00 PM` | **2 Hours** | 🚀 <font color="#00DFFF"><b>STUDY SLOT 4:</b> Real-Life Project Building</font> |
-| `02:00 PM - 03:00 PM` | **1 Hour** | 😴 LUNCH + AFTERNOON POWER NAP *(02:00 PM Fixed)* |
-| `03:00 PM - 05:00 PM` | **2 Hours** | 📁 <font color="#FFDD00"><b>STUDY SLOT 5:</b> Pending School Work</font> |
-| `05:00 PM - 05:15 PM` | **15 Mins** | 🏃‍♂️ Break |
-| `05:15 PM - 06:00 PM` | **45 Mins** | 📖 <font color="#D400FF"><b>STUDY SLOT 6:</b> Mini Theory Revision & Debugging</font> |
-| `06:00 PM - 07:00 PM` | **1 Hour** | 💻 <font color="#00DFFF"><b>STUDY SLOT 7:</b> Project Implementation Round 2</font> |
-| `07:00 PM - 07:30 PM` | **30 Mins** | 🙏 POOJA TIME |
-| `07:30 PM - 08:30 PM` | **1 Hour** | 🍽️ Dinner & Family Break |
-| `08:30 PM - 11:00 PM` | **2.5 Hours** | 📈 <font color="#9D00FF"><b>STUDY SLOT 8:</b> Final Project Lap + GITHUB PUSH</font> |
+| Metric | Value |
+|---|---|
+| Focus Target | `14 Hours / Day` |
+| Wake Time | `05:00 AM` |
+| Sleep Time | `11:00 PM` |
+| Mission | `Legacy Build` |
 
 ---
 
-## 📂 FILE SYSTEM ARCHITECTURE
+## Discipline Evolution Map
+
+```txt
+STAGE 01  ████████████████████  Day 01-03   Fighting old habits
+STAGE 02  ░░░░░░░░░░░░░░░░░░░░  Day 04-07   Routine starts feeling normal
+STAGE 03  ░░░░░░░░░░░░░░░░░░░░  Day 08-14   Momentum phase
+STAGE 04  ░░░░░░░░░░░░░░░░░░░░  Day 15-21   Real discipline test
+STAGE 05  ░░░░░░░░░░░░░░░░░░░░  Day 22-30   Identity shift begins
+STAGE 06  ░░░░░░░░░░░░░░░░░░░░  Day 31+     Automatic execution
+```
+
+---
+
+## The 14-Hour Grid
+
+| Time Window | Runtime | Operation |
+|---|---:|---|
+| `05:00 AM - 05:15 AM` | `15 min` | Wake up and quick fresh up |
+| `05:15 AM - 08:00 AM` | `2.75 hrs` | **Study Slot 1:** Tech / ML theory learning |
+| `08:00 AM - 08:30 AM` | `30 min` | Bath and breakfast block |
+| `08:30 AM - 10:30 AM` | `2 hrs` | **Study Slot 2:** Hands-on coding practice |
+| `10:30 AM - 10:45 AM` | `15 min` | Break |
+| `10:45 AM - 11:45 AM` | `1 hr` | **Study Slot 3:** School holiday homework |
+| `11:45 AM - 12:00 PM` | `15 min` | Break |
+| `12:00 PM - 02:00 PM` | `2 hrs` | **Study Slot 4:** Real-life project building |
+| `02:00 PM - 03:00 PM` | `1 hr` | Lunch and afternoon power nap |
+| `03:00 PM - 05:00 PM` | `2 hrs` | **Study Slot 5:** Pending school work |
+| `05:00 PM - 05:15 PM` | `15 min` | Break |
+| `05:15 PM - 06:00 PM` | `45 min` | **Study Slot 6:** Mini theory revision and debugging |
+| `06:00 PM - 07:00 PM` | `1 hr` | **Study Slot 7:** Project implementation round 2 |
+| `07:00 PM - 07:30 PM` | `30 min` | Pooja time |
+| `07:30 PM - 08:30 PM` | `1 hr` | Dinner and family break |
+| `08:30 PM - 11:00 PM` | `2.5 hrs` | **Study Slot 8:** Final project lap and GitHub push |
+
+---
+
+## Daily Execution Loop
+
+```mermaid
+flowchart LR
+    A[Wake Up] --> B[Deep Study]
+    B --> C[Coding Practice]
+    C --> D[School Work]
+    D --> E[Project Build]
+    E --> F[Revision]
+    F --> G[GitHub Push]
+    G --> H[Sleep]
+    H --> A
+```
+
+---
+
+## File System Architecture
+
 ```bash
 Monk-Mode-14/
 │
-├── assets/          # Custom graphical overlays (banner.png)
+├── assets/          # Custom graphical overlays and banners
 ├── Days/            # Daily execution logs
-├── Notes/           # ML/Tech master documentation
+├── Notes/           # ML / tech master documentation
 ├── Projects/        # Production source files
 └── Resources/       # References and architecture roadmaps
+```
+
+---
+
+## Daily Log Template
+
+```md
+# Day __ / Monk Mode 14
+
+## Completed
+- [ ] Study Slot 1
+- [ ] Study Slot 2
+- [ ] Study Slot 3
+- [ ] Study Slot 4
+- [ ] Study Slot 5
+- [ ] Study Slot 6
+- [ ] Study Slot 7
+- [ ] Study Slot 8
+
+## GitHub Push
+Commit: `yes / no`
+
+## Lesson Learned
+Write one thing you learned today.
+
+## Tomorrow's Target
+Write tomorrow's main execution goal.
+```
+
+---
+
+<div align="center">
+
+## Final Rule
+
+### **Discipline first. Motivation later.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffaa,50:00dfff,100:9d00ff&height=120&section=footer"/>
+
+</div>
