@@ -25,3 +25,12 @@ def check_result(marks):
         failed_by = 40 - marks
         print(f"Failed By {failed_by} Marks")
 output = check_result(marks)
+
+
+class vihaan:
+    def __init__(self):
+        pass
+    def greet(name):
+        name= "Vihaan"
+        return("Hello", name)
+    
