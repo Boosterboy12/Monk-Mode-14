@@ -5,6 +5,8 @@ class product:
         self.price = price
         self.category = category
 
+        if price >= 20000000:
+            print("Error 1012: Invalid Cost, Please Enter A Valid Cost")
 
 class inventory:
     def __init__(self):
@@ -24,11 +26,11 @@ class inventory:
 
 
 p1 = product("PS5", 150000, "GAMING")
-p2 = product("BMW", 15000000, "AUTOMOBILE")
+p2 = product("BMW", 105000000, "AUTOMOBILE")
 p3 = product("PUMA", 1500, "FASHION")
 p4 = product("AULA F75", 150000)
 
 my_shop = inventory()
 my_shop.add_products(p1, p2, p3, p4)
 total_costing = my_shop.calculate_total_value()
-print(f"My Shop's total costing: ₹{total_costing}")
+print(f"Your empire holds"  f' ₹{total_costing}' " worth of digital power ⚡")
