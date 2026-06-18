@@ -3,7 +3,7 @@
 ### 🎯 Daily Targets (Baseline Setup)
 - [x] Initial Repository Architecture Setup (.gitkeep sync)
 - [x] GitHub Remote Sync (Profile: Boosterboy12)
-- [x] Code With Sagar: Advanced Python Video (Watch up to 44:50)
+- [x] Code With Sagar: Advanced Python Video (Watch up to 1:28:57)
 - [x] Setup Local Practice Environment (`practice/day_1.py`)
 - [x] Feature Add-ons & Validation Logic in "The Smart Inventory Tracker"
 
