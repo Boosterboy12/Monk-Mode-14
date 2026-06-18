@@ -1,4 +1,9 @@
-# The Smart Inventory Tracker
+"""
+The Smart Inventory Tracker (Enterprise Edition)
+Author: Vihaan
+Description: A robust inventory management system with automated cost validation.
+"""
+
 class product:
     def __init__(self, name, price, category="General"):
         if price >= 20000000:
