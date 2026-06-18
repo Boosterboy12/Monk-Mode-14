@@ -1,12 +1,16 @@
 # The Smart Inventory Tracker
 class product:
     def __init__(self, name, price, category="General"):
+        if price >= 20000000:
+            print("Error 1012: Invalid Cost, Please Enter A Valid Cost")
+            self.is_valid = False
+            return
+
         self.name = name
         self.price = price
         self.category = category
+        self.is_valid = True
 
-        if price >= 20000000:
-            print("Error 1012: Invalid Cost, Please Enter A Valid Cost")
 
 class inventory:
     def __init__(self):
@@ -14,7 +18,8 @@ class inventory:
 
     def add_products(self, *products):
         for item in products:
-            self.items.append(item)
+            if item.is_valid:
+                self.items.append(item)
 
     def calculate_total_value(
         self,
@@ -33,4 +38,4 @@ p4 = product("AULA F75", 150000)
 my_shop = inventory()
 my_shop.add_products(p1, p2, p3, p4)
 total_costing = my_shop.calculate_total_value()
-print(f"Your empire holds"  f' ₹{total_costing}' " worth of digital power ⚡")
+print(f"Your empire holds" f" ₹{total_costing}" " worth of digital power ⚡")
