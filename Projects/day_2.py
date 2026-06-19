@@ -18,7 +18,10 @@ else:
         return number_1 * number_2
     
     def divide(number_1, number_2):
-        return number_1 / number_2
+        if number_2 != 0:
+            return number_1 / number_2
+        else:
+            print("Division By Zero")
     
     def modulus(number_1, number_2):
         return number_1 % number_2
