@@ -1,24 +1,30 @@
-class emplyee:
+# A basic calculator 
+try:
+    number_1 = int(input("Enter Your Desired Number_1: ")) 
+    number_2 = int(input("Enter Your Desired Number_2: "))
 
-    def __init__(self, name, age, salary=1000):
-        self.name = name 
-        self.salary = salary
-        self.age = age
+except:
+    raise Warning("WRONG INPUT")
 
-    def hire( name, age):
-        try:
-            attendee_name = input("Enter Your Name - ").lower()
-            attendee_age = int(input("Enter Your Age - "))
 
-            if name == int:
-                print("Please Enter A Valid String Name")
+else:
+    def add(number_1, number_2):
+        return number_1 + number_2
+    
+    def subtract(number_1, number_2):
+        return number_1 - number_2
+    
+    def multiply(number_1, number_2):
+        return number_1 * number_2
+    
+    def divide(number_1, number_2):
+        return number_1 / number_2
+    
+    def modulus(number_1, number_2):
+        return number_1 % number_2
+    
+    def exponential(number_1, number_2):
+        return number_1 ** number_2
 
-        except:
-            print("Please Enter A Valid Input !")
-
-        else:
-            print(f"Well Done {name} You Have Been Selected For The Job")
-        finally:
-            print("Glad You Choose To Invest Your Precious Time With Us !")
-
-new_emplyee = emplyee.hire("Vihaan", 12)
+result = add(number_1, number_2)
+print(result)
