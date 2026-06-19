@@ -1,29 +1,28 @@
 # A Todo List Application
-class todo_list:
-    def __init__(self, tasks, completed_tasks):
-        self.tasks = tasks
-        self.completed_tasks = completed_tasks
+class Todolist:
+    def __init__(self):
+        self.tasks = []
+        self.completed_tasks = []
 
-    def add_item(tasks):
-        tasks = []
+    def add_item(self):
         new_task = input("Enter The New Task Name : ")
-        tasks.append(new_task)
+        self.tasks.append(new_task)
 
-        print(tasks)
-
-    def complete_task(items, completed_tasks, tasks):
+    def complete_task(self):
         new_completed_task = input("Enter The Task Name You Have Completed : ")
-        completed_tasks.append(new_completed_task)
+        self.completed_tasks.append(new_completed_task)
 
-        print(tasks)
-
-    def show_tasks(tasks):
-        return tasks
-
-    def remove_task(tasks):
+    def remove_task(self):
         remove_task = input("Enter The Task To Remove : ")
-        tasks.remove = remove_task
+        self.tasks.remove = remove_task
 
-        print(tasks)
+    def show_tasks(self):
+        return self.tasks
 
-item_1 = todo_list.show_tasks()
+my_list = Todolist()
+
+my_list.add_item()  
+my_list.add_item()  
+my_list.complete_task()
+result = my_list.show_tasks()
+print(result)
