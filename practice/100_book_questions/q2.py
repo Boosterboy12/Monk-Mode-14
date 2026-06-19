@@ -11,10 +11,11 @@ class Todolist:
     def complete_task(self):
         new_completed_task = input("Enter The Task Name You Have Completed : ")
         self.completed_tasks.append(new_completed_task)
+        self.tasks.remove(new_completed_task)
 
     def remove_task(self):
         remove_task = input("Enter The Task To Remove : ")
-        self.tasks.remove = remove_task
+        self.tasks.remove(remove_task)
 
     def show_tasks(self):
         return self.tasks
