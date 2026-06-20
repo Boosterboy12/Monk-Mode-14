@@ -4,7 +4,6 @@ Author: Vihaan
 Description: A robust inventory management system with automated cost validation.
 """
 
-
 # Defining product values & conditions for ft
 class product:
     def __init__(self, name, price, category="General"):
