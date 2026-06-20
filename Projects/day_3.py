@@ -6,4 +6,3 @@ class identity:
 
     def greet(name, age, profession):
         print(f"Welcome {name} as you are a {profession} we would like you to answer the follwoing questions")
-
