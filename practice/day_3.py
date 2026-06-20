@@ -8,6 +8,9 @@ print(sum)
 
 # Given a non-negative integer $n$, write a recursive function to determine the total count of digits present in the number. The solution must be implemented implicitly or explicitly without any loops (for or while) or type casting functions (e.g., converting the integer to a string using str(n) is strictly prohibited).
 def count_digits(n):
-    n
+    if n == 0:
+        return 0
+    return 1 + count_digits(n // 10)
 
-count_digits(32)
+digits = count_digits(362)
+print(digits)
