@@ -51,13 +51,15 @@ class identity:
                     "Select Which Kind Of Front End Developer You Are : 1. UI/UX developer, 2. Front End Web Developer, 3. Mobile Front End Developer, 4. Static Developer ".lower()
                 )
                 if front_end_branch == "ui/ux" or "ui" or "ux" or "uiux" or "ui ux":
-                    ui_ux_language = input(f"As You Are A {front_end_branch} select the language you have worked with from the following")
+                    ui_ux_language = input(f"As You Are A {front_end_branch} Select The Language You Have Worked With From The Following")
                 dev_language = input(
-                    "Select The Language From The Following, You Have Worked With : 1. HTML, 2. CSS, 3. Javascript, "
-                ).lower()
+                    "Select The Language From The Following, You Have Worked With : 1. HTML, 2. CSS, 3. Javascript, ").lower()
+                if front_end_branch == "front end web developer" or "frontend web developer" or "frontendwebdeveloper" or "front end webdeveloper" or "front end":
+                    front_web_language = input(f"As You Are A {front_end_branch} Select Your Fav Languuage : 1. Javascript 2. TypeScript, 3. Vue.js, 4. React, 5. Angular ")
 
-            elif developer_branch == "back end" or "backend":
-                pass
+                if front_end_branch == "mobile front end dereloper" or "mobile frontend developer" or "mobilefrontenddeveloper" or "mobilefront end developer" or "mobiledrontend developer" or ""
+  
+            elif developer_branch == "back end" or "backend":           
 
 
 vihaan = identity.greet("Vihaan", 13, "developer")
